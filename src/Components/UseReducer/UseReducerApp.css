@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+}
+
+.header {
+    background-color: slateblue;
+    padding: 10px;
+}
+
+.main {
+    margin: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
+button{
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}

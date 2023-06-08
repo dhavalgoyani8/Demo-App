@@ -1,0 +1,13 @@
+.App {
+    text-align: center;
+}
+
+.header {
+    background-color: slateblue;
+    padding: 10px;
+}
+
+.main {
+    text-align: left;
+    margin: 5px;
+}

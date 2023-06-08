@@ -1,0 +1,37 @@
+.App{
+    text-align: center;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    padding: 10px;
+    font-size: 30px;
+}
+.navbar a.active  {
+    color: gold;
+    font-size: 50px;
+}
+
+.homePage {
+    text-align: center;
+    margin-top: 100px;
+}
+.aboutPage {
+    text-align: center;
+    margin-top: 100px;
+}
+.contactPage {
+    text-align: center;
+    margin-top: 100px;
+}
+button{
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.contactPage a.active button{
+    font-size: 30px;
+    color: green;
+}

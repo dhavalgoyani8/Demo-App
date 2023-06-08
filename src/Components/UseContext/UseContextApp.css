@@ -1,0 +1,23 @@
+.App{
+    text-align: center;
+    margin: 20px;
+    color: aqua;
+}
+.header{
+    background-color: violet;
+}
+.contextA{
+    padding: 30px;
+    background-color: red;
+    border-radius: 15%;
+}
+.contextB{
+    padding: 30px;
+    background-color: blue;
+    border-radius: 35%;
+}
+.contextC{
+    padding: 30px;
+    background-color:green;
+    border-radius: 50%;
+}

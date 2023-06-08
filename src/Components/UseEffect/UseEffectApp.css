@@ -1,0 +1,41 @@
+.App {
+    text-align: center;
+    min-height: 100vh;
+    background-color: khaki;
+  }
+  
+  .header {
+    background-color: lightblue;
+    padding: 10px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  .btn{
+    position: fixed;
+    background-color: aqua;
+  }
+  
+  .main {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 10px;
+  }
+  
+  .data {
+    color: blueviolet;
+    background-color: cyan;
+    border: 1px solid grey;
+    padding: 5px;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: start;
+    margin-bottom: 10px;
+  }
+
+  img {
+    width: 385px;
+    height: 300px;
+  }

@@ -1,0 +1,202 @@
+
+
+/* UseEffectAPI2 */
+/* .container-fluid {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background-color: #b3e5fc;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.textLeft {
+  text-align: left;
+  margin-left: 10px;
+}
+
+.card {
+  width: 400px;
+  border: none;
+  border-radius: 10px;
+  background-color: #fff;
+  margin: auto;
+}
+
+.image {
+  min-width: 155px;
+  margin-right: 10px;
+}
+
+.stats {
+  background: #f2f5f8 !important;
+  color: #000 !important;
+  margin-top: 18px !important;
+}
+
+.articles {
+  font-size: 10px;
+  color: #a1aab9;
+}
+
+.number1 {
+  font-weight: 500;
+}
+
+.followers {
+  font-size: 10px;
+  color: #a1aab9;
+}
+
+.number2 {
+  font-weight: 500;
+}
+
+.rating {
+  font-size: 10px;
+  color: #a1aab9;
+}
+
+.number3 {
+  font-weight: 500;
+} */
+
+/* .useEffect1_div{
+  height: 100vh;
+  text-align: center;
+  background-color: darkcyan;
+  color: white;
+}
+button{
+  display: grid;
+} */
+
+/* .Form1_div {
+  height: 100vh;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  gap: 4.8rem;
+  background-color: darkcyan;
+}
+
+form {
+  background-color: aquamarine;
+  text-align: center;
+  display: grid;
+  padding: 20px;
+  border-radius: 20px;
+  font-size: 20px;
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+}
+input {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 50px;
+  font-size: 20px;
+}
+.btn {
+  margin-top: 20px;
+  font-size: 20px;
+  padding: 10px;
+} */
+
+/* Short Circuit Evaluation with use State*/
+/* .main_div {
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.h1Style {
+  background-color: azure;
+  background-size: 20%;
+  color: black;
+  border-radius: 50px;
+  margin-top: 20px;
+} */
+
+/* Use State 3 */
+/* .div_useState2 {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.arrayH1 {
+  margin-top: 20px;
+  background-color: azure;
+  border-radius: 50px;
+  padding: 10px;
+  font-size: 40px;
+  text-align: center;
+}
+.clearButton {
+  margin-top: 20px;
+  background-color: blue;
+  color: azure;
+  border-radius: 50px;
+  padding: 10px;
+  font-size: 40px;
+  text-align: center;
+  cursor: pointer;
+}
+.removeButton {
+  margin-left: 20px;
+  cursor: pointer;
+  background-color: red;
+  color: azure;
+  border-radius: 50px;
+  padding: 5px;
+  font-size: 20px;
+  text-align: center;
+} */
+
+/* Use State 2 */
+/* .div_useState2 {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.arrayH1 {
+  margin-top:20px;
+  background-color: azure;
+  border-radius: 50px;
+  padding: 10px;
+  font-size: 40px;
+  text-align: center;
+}
+button{
+  margin-top:20px;
+  background-color: blue;
+  color: azure;
+  border-radius: 50px;
+  padding: 10px;
+  font-size: 40px;
+  text-align: center;
+} */
+
+/* Use State 1 */
+/* .main_div {
+  background-color: #282c34;
+  min-height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+hr {
+  border: 5px solid green;
+  margin: 20px;
+  width: 100vh;
+} */
